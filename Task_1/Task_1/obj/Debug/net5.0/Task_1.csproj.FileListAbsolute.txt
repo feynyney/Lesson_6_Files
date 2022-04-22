@@ -1,0 +1,16 @@
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\bin\Debug\net5.0\Task_1.exe
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\bin\Debug\net5.0\Task_1.deps.json
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\bin\Debug\net5.0\Task_1.runtimeconfig.json
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\bin\Debug\net5.0\Task_1.runtimeconfig.dev.json
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\bin\Debug\net5.0\Task_1.dll
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\bin\Debug\net5.0\Task_1.pdb
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\Task_1.csproj.AssemblyReference.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\Task_1.AssemblyInfo.cs
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\Task_1.dll
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\refint\Task_1.dll
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\Task_1.pdb
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\Task_1.genruntimeconfig.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson6\Task_1\Task_1\obj\Debug\net5.0\ref\Task_1.dll
